@@ -39,7 +39,7 @@ Reference - [link](https://pysource.com/2018/10/31/raspberry-pi-3-and-opencv-3-i
 
 ### Install Opencv
     sudo pip3 install opencv-python==3.4.6.27
-_Note: Latest OpenCV is not supported by python 3.7.3_
+Note: _Later version of OpenCV may not be supported by python 3.7.3_
 
 ## Pytesseract
 
