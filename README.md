@@ -7,4 +7,7 @@ Implentation using Python + OpenCV + Pytesseract
 * Python
 * Pytesseract
 * OpenCV
+ # Sofware Installation
+ ## OpenCV
+ - test
 
