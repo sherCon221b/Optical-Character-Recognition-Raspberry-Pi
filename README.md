@@ -1,4 +1,4 @@
-# Optical-Character-Recognition
+# Optical Character Recognition
 Implentation using Python + OpenCV + Pytesseract
 ## Hardware
 * Raspberry pi 3b+ (may run on later versions)
