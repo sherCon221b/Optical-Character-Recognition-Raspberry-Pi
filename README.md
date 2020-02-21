@@ -11,6 +11,7 @@ Note: _Implementation is done with the information above. Issues may occur in ot
 # Sofware Installation
 
 ## Free up Space
+Given that the Raspberry OP is freshly installed with an OS, do the following: 
 ### Expand File Sytem
     sudo raspi-config
 Go to _Advance Options_ and then select _A1_.
