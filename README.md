@@ -44,9 +44,9 @@ Note: _Later version of OpenCV may not be supported by python 3.7.3_
 ## Pytesseract
 
 ### Install Tesseract Library
-    sudo apt install tesseract-ocr
+    sudo apt-get install tesseract-ocr
 ### Install the Command Line Tesseract Tool
-    sudo apt install libtesseract-dev
+    sudo apt-get install libtesseract-dev
 ### Install Pytesseract
     sudo pip3 install pytesseract
 
