@@ -1,5 +1,5 @@
 # Optical Character Recognition
-Implentation using Python + OpenCV + Pytesseract
+The system captures an image and recognise its characters content. Implented using Python + OpenCV + Pytesseract.
 ## Hardware
 * Raspberry pi 3b+ (may run on later versions)
 * Raspi Cam
@@ -9,9 +9,8 @@ Implentation using Python + OpenCV + Pytesseract
 
 Note: _Implementation is done with the information above. Issues may occur in other versions._
 # Sofware Installation
-
+Given that the Raspberry Pi is freshly installed with an OS, do the following: 
 ## Free up Space
-Given that the Raspberry OP is freshly installed with an OS, do the following: 
 ### Expand File Sytem
     sudo raspi-config
 Go to _Advance Options_ and then select _A1_.
