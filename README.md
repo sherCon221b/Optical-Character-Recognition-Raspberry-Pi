@@ -53,4 +53,4 @@ Note: _Later version of OpenCV may not be supported by python 3.7.3_
 Reference - [link](https://maker.pro/raspberry-pi/tutorial/optical-character-recognizer-using-raspberry-pi-with-opencv-and-tesseract).
 
 ## Run the File
-sudo python3 Desktop/ocr.py
+    sudo python3 Desktop/ocr.py
